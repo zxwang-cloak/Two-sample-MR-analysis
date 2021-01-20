@@ -1,2 +1,2 @@
-# Two-sample-MR-analysis
+# Batch two-sample MR analysis
 Batch Mendelian randomization analysis
