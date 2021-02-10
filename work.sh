@@ -1,5 +1,5 @@
 
 
 
-### dependent packages
-#TwoSampleMR, ggplot2
+### dependent R packages: TwoSampleMR, ggplot2
+
